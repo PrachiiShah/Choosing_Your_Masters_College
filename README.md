@@ -11,7 +11,7 @@ Seaborn Library
 Matplotlib Library
 Python v3
 
-#📦 Install
+# 📦 Install
 Any code editor or python framework can be used according to developers choice.
 Jupyter-Notebook
 Anaconda
